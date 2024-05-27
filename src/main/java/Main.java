@@ -13,7 +13,7 @@ public class Main {
     System.out.println();
     double velocidadeMedia = distancia * tempo;
 
-    System.out.println("A velocidade média é:");
+
     System.out.println(velocidadeMedia);
   }
 }
